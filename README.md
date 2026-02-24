@@ -12,7 +12,7 @@ This project demonstrates a production-ready data engineering lifecycle. Moving 
 * **Processing Engine:** Apache Spark (PySpark & SparkSQL)
 * **Architecture:** Medallion (Bronze, Silver, Gold)
 
-## 📊 Data Architecture & Pipeline
+## Data Architecture & Pipeline
 
 ### 1. Bronze Layer (Raw Ingestion)
 * **Pattern:** Utilized **Auto Loader** for incremental ingestion from cloud storage volumes.
